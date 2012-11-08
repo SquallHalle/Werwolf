@@ -1,3 +1,13 @@
+# Project specific
+
+
+# Dart excludes
+# Dart Editor config file
+.project
+.children
+
+
+# Go exculdes
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a

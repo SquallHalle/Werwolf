@@ -1,4 +1,4 @@
 Wërwölf
 =======
 
-Ziel: Spielleiterloses Werwolf als Webapp in Go und Dart.
+Ziel: Spielleiterloses Wërwölf als Webapp in Go und Dart.
